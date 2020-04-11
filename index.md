@@ -14,7 +14,7 @@
 </table>
 
 ### Interest Area:
-#### Remote Sensing, Graph Neural Network, Object detcetion
+#### Remote Sensing Image Processing, Graph Neural Network, Object detcetion
 ### Education:
 #### Harbin Institue of Technology 2014——2018
 #### Shanghai Jiaotong University 2019——now
