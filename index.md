@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>Ziteng Cui</h1>
+      <h1>Cui Ziteng</h1>
       <p><b>Master</b></p>
       <p><b>Shanghai Jiaotong University</b></p>
       <p><b>Supervisor:Zhang Zenghui</b></p>
