@@ -13,6 +13,9 @@
   </tr>
 </table>
 
+### Interested Area:
+#### Remote Sensing, Graph Neural Network, Object detcetion
 ### Publishment:
-#### ELLIPSE-FCN: OIL TANKS DETECTION FROM REMOTE SENSING IMAGES WITH FULLY CONVOLUTION NETWORK(IGARSS 2020)(oral)
+#### ELLIPSE-FCN: OIL TANKS DETECTION FROM REMOTE SENSING IMAGES WITH FULLY CONVOLUTION NETWORK(IGARSS 2020, oral)Ziteng Cui1, Weiwei Guo2∗, Zenghui Zhang1, Huiyuan Chen1, Wenxian Yu
+
 
