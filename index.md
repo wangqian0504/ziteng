@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-### Interested Area:
+### Interest Area:
 #### Remote Sensing, Graph Neural Network, Object detcetion
 ### Education:
 #### Harbin Institue of Technology 2014——2018
