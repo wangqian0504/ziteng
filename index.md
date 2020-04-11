@@ -2,9 +2,7 @@
   <tr>
     <td width="75%">
       <h1>Cui Ziteng</h1>
-      <p><b>Master Student</b></p>
-      <p><b>Shanghai Jiaotong University</b></p>
-      <p><b>Supervisor:Zhang Zenghui</b></p>
+      <p><b>Hello, I'm a first year Master student at Shanghai Jiaotong University(SEIEE), supervised by Pro. Zenghui Zhang, I've received my bachelor degree in HIT, China in June 2018, if you have some good ideas or also interested in Computer Vision or Remote Sensing. Just send E-mail to me. Let's find someting interesting!</b></p>
       <p><b>Mail：2037346204@qq.com</b></p>  
     </td>
     <td width="25%">
