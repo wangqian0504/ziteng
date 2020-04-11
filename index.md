@@ -7,7 +7,7 @@
       <p><b>Mail：2037346204@qq.com</b></p>
     </td>
     <td width="25%">
-      <img src="" width="100%">      
+      <img src="cui.jpg" width="100%">      
     </td>
   </tr>
 </table>
