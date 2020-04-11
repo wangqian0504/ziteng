@@ -8,7 +8,7 @@
       <p><b>Mail：2037346204@qq.com</b></p>  
     </td>
     <td width="25%">
-      <img src="cui.jpg" width="100%">      
+      <img src="cui.jpg" width="200%">      
     </td>
   </tr>
 </table>
@@ -16,6 +16,6 @@
 ### Interested Area:
 #### Remote Sensing, Graph Neural Network, Object detcetion
 ### Publishment:
-#### ELLIPSE-FCN: OIL TANKS DETECTION FROM REMOTE SENSING IMAGES WITH FULLY CONVOLUTION NETWORK(IGARSS 2020, oral)Ziteng Cui1, Weiwei Guo2∗, Zenghui Zhang1, Huiyuan Chen1, Wenxian Yu
+#### ELLIPSE-FCN: OIL TANKS DETECTION FROM REMOTE SENSING IMAGES WITH FULLY CONVOLUTION NETWORK(IGARSS 2020, oral)Ziteng Cui1, Weiwei Guo∗, Zenghui Zhang, Huiyuan Chen, Wenxian Yu
 
 
