@@ -12,7 +12,7 @@
 </table>
 
 ### Interest Area:
-#### Image Super Resolution, Remote Sensing Image Processing, Object detcetion
+#### Image Super Resolution, Remote Sensing, Object detcetion
 ### Education:
 #### Harbin Institue of Technology(bachelor) 2014——2018
 #### Shanghai Jiaotong University(master) 2019——now
