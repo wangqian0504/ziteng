@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-### Interest Area:
+### Interest Areas:
 #### Image Super Resolution, Remote Sensing, Object detcetion
 ### Education:
 #### Harbin Institue of Technology(bachelor) 2014——2018
